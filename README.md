@@ -1,4 +1,4 @@
-👋🏽, I’m Melissa Richard, @devhellomello, but feel free to call me Mello.
+👋🏽, I’m Melissa, @devhellomello, but feel free to call me Mello.
   
 ☁️ Currently I'm an Attonrey working in Corporate Litigation with a background in Intellectual Property but I'm taking a deep dive into Cloud Technology.
   
