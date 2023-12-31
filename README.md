@@ -27,7 +27,7 @@ Currently I'm an Attorney working in Corporate Litigation with a background in I
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="http://www.medium.com/devhellomello" target="_blank" rel="noreferrer">
+                      <a href="http://www.medium.com/@devhellomello" target="_blank" rel="noreferrer">
                     <picture>
                     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="90" height="32" />
                     </picture>
